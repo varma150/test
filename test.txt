@@ -1,12 +1,18 @@
-ravik@varma MINGW64 ~/OneDrive/Desktop/modules (master)
-$ mkdir demo
 
-ravik@varma MINGW64 ~/OneDrive/Desktop/modules (master)
-$ cd demo
+git checkout <branch_name> -> activate the new branch
 
-ravik@varma MINGW64 ~/OneDrive/Desktop/modules/demo (master)
-$ git init
-Initialized empty Git repository in C:/Users/ravik/OneDrive/Desktop/modules/demo/.git/
+git switch <branch_name>
 
-ravik@varma MINGW64 ~/OneDrive/Desktop/modules/demo (master)
-$ 
+
+git checkout -b <branch_name>
+
+   -> it create the branch and acticate at a time
+
+
+To move the local area files into remote area
+-----------------------------------------------
+git remote add origin <repo url>
+git push origin <branch_name>
+
+git push  origin <branch_name>
+
