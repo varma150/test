@@ -1,0 +1,12 @@
+ravik@varma MINGW64 ~/OneDrive/Desktop/modules (master)
+$ mkdir demo
+
+ravik@varma MINGW64 ~/OneDrive/Desktop/modules (master)
+$ cd demo
+
+ravik@varma MINGW64 ~/OneDrive/Desktop/modules/demo (master)
+$ git init
+Initialized empty Git repository in C:/Users/ravik/OneDrive/Desktop/modules/demo/.git/
+
+ravik@varma MINGW64 ~/OneDrive/Desktop/modules/demo (master)
+$ 
