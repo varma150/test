@@ -4,15 +4,3 @@ git checkout <branch_name> -> activate the new branch
 git switch <branch_name>
 
 
-git checkout -b <branch_name>
-
-   -> it create the branch and acticate at a time
-
-
-To move the local area files into remote area
------------------------------------------------
-git remote add origin <repo url>
-git push origin <branch_name>
-
-git push  origin <branch_name>
-
